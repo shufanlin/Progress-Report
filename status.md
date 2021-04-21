@@ -6,7 +6,7 @@ Shufan Lin
 
 #### Your section leader's name
 
-Shufan Lin
+Tamara Katic
 
 #### Project title
 
@@ -18,7 +18,7 @@ Short answers for the below questions suffice. If you want to alter your plan fo
 
 #### What have you done for your project so far?
 
-TODO
+I have found a suitable icon, and have imported the background image and icon into the code. Set the appropriate icon size.
 
 #### What have you not done for your project yet?
 
