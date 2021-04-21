@@ -2,15 +2,15 @@
 
 #### Your name
 
-TODO
+Shufan Lin
 
 #### Your section leader's name
 
-TODO
+Shufan Lin
 
 #### Project title
 
-TODO
+Dumpling Battle
 
 ***
 
